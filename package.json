@@ -1,6 +1,7 @@
 {
   "name": "react-sample",
   "version": "1.0.0",
+  "repository": "git@github.com:wake-local-org/react-sample.git",
   "description": "",
   "main": "index.js",
   "scripts": {
