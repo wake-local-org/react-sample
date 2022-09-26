@@ -1,12 +1,20 @@
 {
   "name": "react-sample",
   "version": "1.0.5",
-  "repository": "git@github.com:wake-local-org/react-sample.git",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wake-local-org/react-sample.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wake-local-org/react-sample/issues"
+  },
+  "homepage": "https://github.com/wake-local-org/react-sample#readme",
+  "keywords": [],
+  "description": "react-sample publish-practice"
 }
